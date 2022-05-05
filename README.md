@@ -3,11 +3,4 @@
 
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=laricp&theme=dark&show_icons=true)
 
-
-
-            <i class="devicon-typescript-plain"></i>
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
-          
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}
