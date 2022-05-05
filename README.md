@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋🏻, I'm Larissa Pavan 👩🏼‍💻 </h1>
-<h3 align="center">I am a java junior web developer and computer science student.</h3>
+<h1 align="center">Hi there, I'm Larissa Pavan<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+I'm a **Java junior web developer and computer science student.**
 
-![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=laricp&theme=dark&show_icons=true)
+## Skill Set :muscle:
 
-<h1 align="center">All i known </h1>
+These are some of the major technologies that I use or have worked on in the past:
 
-<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+**Programming Languages**
 
-<img src="{https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot}" />
+<img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+|--|--|--|
 
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
+**Frameworks**
 
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+<img title="Spring" alt"Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> | <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> | <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          
+ **Database**
+ 
+ <img title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img title="Oracle" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+ 
+ **Tools**
+ 
+<img title="VS Code" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
+          
+## My stats :bar_chart:
+<img src="https://github-readme-stats.vercel.app/api?username=laricp&theme=dark&show_icons=true">
 
-<img src="{https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white}" />
+## Let's Connect :handshake:
 
-<img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />
+<a href="https://www.linkedin.com/in/larissacpavan/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
