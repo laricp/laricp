@@ -3,4 +3,4 @@
 
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=laricp&theme=dark&show_icons=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/username=laricp
+
