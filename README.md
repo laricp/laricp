@@ -12,7 +12,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Frameworks**
 
-<img title="Spring" alt"Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> | <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> | <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img title="Spring" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> | <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> | <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 |--|--|--|
           
  **Database**
@@ -27,7 +27,6 @@ These are some of the major technologies that I use or have worked on in the pas
           
 ## My stats :bar_chart:
 <img src="https://github-readme-stats.vercel.app/api?username=laricp&theme=dark&show_icons=true">
-|--|
 
 ## Let's Connect :handshake:
 
