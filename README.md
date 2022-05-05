@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Larissa Pavan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-##I'm a Java junior web developer and computer science student
-
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
